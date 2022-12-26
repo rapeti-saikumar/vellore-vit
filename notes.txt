@@ -1,0 +1,10 @@
+* make sure the code should be like re usability
+
+* step-1: create global variables 
+step-2: create common factor for all pages(navbar,sidebar,footer)
+
+simatic tags - to let browser which part it belongs to.
+
+for logo -> ./ is also fine
+
+aspect-ratio: if there is no image but the space remain the same
